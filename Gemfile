@@ -64,6 +64,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "reactionview", "~> 0.1.2"
+gem "reactionview", "~> 0.1.3"
 
 gem "view_component", "~> 4.0"
